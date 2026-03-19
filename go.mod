@@ -1,4 +1,4 @@
-module github.com/free5gc/tlv
+module github.com/acore2026/tlv
 
 go 1.25.5
 
